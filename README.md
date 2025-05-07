@@ -3,13 +3,9 @@ This repo is constructed for collecting and categorizing papers about data const
 
 # Techniques
 
-## basic technical components
-
-### 3d construction
-
-**[Gaussian Splatting]**
+## Gaussian Splatting
  
-
+### object assert 
 **ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**\
 *Yu Liu, Baoxiong Jia, Ruijie Lu, Junfeng Ni, Song-Chun Zhu, Siyuan Huang*\
 *Tsinghua University; National Key Lab of General AI, BIGAI; Peking University*\
@@ -20,7 +16,16 @@ ICLR2025. [Website](https://articulate-gs.github.io/) | [Paper](https://arxiv.or
 *Carnegie Mellon University*\
 ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper](https://openreview.net/forum?id=gdRI43hDgo)
 
-### simulation paradigm
+### static scene assert
+
+**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**\
+*Jianhao Zheng, Zihan Zhu, Valentin Bieri, Marc Pollefeys, Songyou Peng, Iro Armeni*\
+*Stanford University; ETH Zürich; Microsoft*\
+[Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org/abs/2504.03886) | [Code](https://github.com/GradientSpaces/WildGS-SLAM)
+
+### dynamic scene assert
+
+## simulation paradigm
 
 **DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**\
 *Xuemeng Yang, Licheng Wen1, Yukai Ma, Jianbiao Mei, Xin Li,Tiantian Wei, Wenjie Lei, Daocheng Fu, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yong Liu, Yu Qiao*\
