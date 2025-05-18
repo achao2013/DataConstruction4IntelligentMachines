@@ -3,7 +3,7 @@ This repo is constructed for collecting and categorizing papers about data const
 
 # Techniques
 
-## Gaussian Splatting
+## assert construction
  
 ### object assert 
 **ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**\
@@ -17,6 +17,11 @@ ICLR2025. [Website](https://articulate-gs.github.io/) | [Paper](https://arxiv.or
 ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper](https://openreview.net/forum?id=gdRI43hDgo)
 
 ### static scene assert
+
+**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**\
+*Lu Ling, Chen-Hsuan Lin, Tsung-Yi Lin, Yifan Ding, Yu Zeng, Yichen Sheng, Yunhao Ge, Ming-Yu Liu, Aniket Bera* ,Zhaoshuo Li*\
+*NVIDIA Research, Purdue University*\
+arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/) | [Paper](https://arxiv.org/abs/2505.02836)
 
 **WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**\
 *Jianhao Zheng, Zihan Zhu, Valentin Bieri, Marc Pollefeys, Songyou Peng, Iro Armeni*\
