@@ -36,3 +36,8 @@ arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/
 *Xuemeng Yang, Licheng Wen1, Yukai Ma, Jianbiao Mei, Xin Li,Tiantian Wei, Wenjie Lei, Daocheng Fu, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yong Liu, Yu Qiao*\
 *Shanghai AI Laboratory, Zhejiang University, Shanghai Jiao Tong University, Technical University of Munich, East China Normal University*\
 arXiv. [Website](https://pjlab-adg.github.io/DriveArena/) | [Paper](https://arxiv.org/abs/2408.00415) | [Code](https://github.com/PJLab-ADG/DriveArena)
+
+**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**\
+*Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Katerina Fragkiadaki, Zackory Erickson, David Held, Chuang Gan*\
+*CMU, Tsinghua IIIS, MIT CSAIL, UMass Amherst, MIT-IBM AI Lab*\
+ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/abs/2311.01455) | [Code](https://github.com/Genesis-Embodied-AI/RoboGen)
