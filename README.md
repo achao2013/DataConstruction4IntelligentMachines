@@ -30,6 +30,20 @@ arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/
 
 ### dynamic scene assert
 
+- one2many
+  
+**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**\
+*Zhenyu Jiang, Yuqi Xie, Kevin Lin, Zhenjia Xu, Weikang Wan, Ajay Mandlekar†, Linxi “Jim” Fan, Yuke Zhu*\
+*NVIDIA Research, UT Austin, UC San Diego*\
+[Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.org/abs/2410.24185) | [Code](https://github.com/NVlabs/dexmimicgen/)
+
+**DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**\
+*Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu*\
+*Tsinghua University, Shanghai Qi Zhi Institute, Shanghai AI Lab*\
+[Website](https://demo-generation.github.io) | [Paper](https://arxiv.org/abs/2502.16932) | [Code](https://github.com/TEA-Lab/DemoGen)
+
+
+
 ## simulation paradigm
 
 **DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**\
@@ -42,7 +56,4 @@ arXiv. [Website](https://pjlab-adg.github.io/DriveArena/) | [Paper](https://arxi
 *CMU, Tsinghua IIIS, MIT CSAIL, UMass Amherst, MIT-IBM AI Lab*\
 ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/abs/2311.01455) | [Code](https://github.com/Genesis-Embodied-AI/RoboGen)
 
-**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**\
-*Zhenyu Jiang, Yuqi Xie, Kevin Lin, Zhenjia Xu, Weikang Wan, Ajay Mandlekar†, Linxi “Jim” Fan, Yuke Zhu*\
-*NVIDIA Research, UT Austin, UC San Diego*\
-[Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.org/abs/2410.24185) | [Code](https://github.com/NVlabs/dexmimicgen/)
+
