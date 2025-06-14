@@ -18,29 +18,50 @@ ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper
 
 ### static scene assert
 
+**1.synthesis**
+
 **Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**\
 *Lu Ling, Chen-Hsuan Lin, Tsung-Yi Lin, Yifan Ding, Yu Zeng, Yichen Sheng, Yunhao Ge, Ming-Yu Liu, Aniket Bera* ,Zhaoshuo Li*\
 *NVIDIA Research, Purdue University*\
 arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/) | [Paper](https://arxiv.org/abs/2505.02836)
 
+**2.one2many**
+
+ **ACDC: Automated Creation of Digital Cousins for Robust Policy Learning**\
+ *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*
+ *Stanford University*
+ CoRL 2024. [Website]()
+ 
+**3.recon**
+
 **WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**\
 *Jianhao Zheng, Zihan Zhu, Valentin Bieri, Marc Pollefeys, Songyou Peng, Iro Armeni*\
 *Stanford University; ETH Zürich; Microsoft*\
-[Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org/abs/2504.03886) | [Code](https://github.com/GradientSpaces/WildGS-SLAM)
+CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org/abs/2504.03886) | [Code](https://github.com/GradientSpaces/WildGS-SLAM)
 
 ### dynamic scene assert
 
-- one2many
+**1.recon**
+
+**2.one2many**
   
 **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**\
 *Zhenyu Jiang, Yuqi Xie, Kevin Lin, Zhenjia Xu, Weikang Wan, Ajay Mandlekar†, Linxi “Jim” Fan, Yuke Zhu*\
 *NVIDIA Research, UT Austin, UC San Diego*\
-[Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.org/abs/2410.24185) | [Code](https://github.com/NVlabs/dexmimicgen/)
+ICRA 2025. [Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.org/abs/2410.24185) | [Code](https://github.com/NVlabs/dexmimicgen/)
 
 **DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning**\
 *Zhengrong Xue, Shuying Deng, Zhenyang Chen, Yixuan Wang, Zhecheng Yuan, Huazhe Xu*\
 *Tsinghua University, Shanghai Qi Zhi Institute, Shanghai AI Lab*\
-[Website](https://demo-generation.github.io) | [Paper](https://arxiv.org/abs/2502.16932) | [Code](https://github.com/TEA-Lab/DemoGen)
+RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.org/abs/2502.16932) | [Code](https://github.com/TEA-Lab/DemoGen)
+
+**3.LLM agent**
+
+**GenSim: A General Social Simulation Platform with Large Language Model based Agents**\
+*Jiakai Tang, Heyang Gao, Xuchen Pan, Lei Wang, Haoran Tan, Dawei Gao, Yushuo Chen, Xu Chen, Yankai Lin, Yaliang Li, Bolin Ding, Jingren Zhou, Jun Wang, Ji-Rong Wen*\
+*Renmin University of China, University College London, Alibaba Group*\
+arXiv. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/TangJiakai/GenSim)
+
 
 
 
