@@ -16,6 +16,13 @@ ICLR2025. [Website](https://articulate-gs.github.io/) | [Paper](https://arxiv.or
 *Carnegie Mellon University*\
 ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper](https://openreview.net/forum?id=gdRI43hDgo)
 
+
+**PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**\
+*Yuchen Lin, Chenguo Lin, Panwang Pan, Honglei Yan, Yiqiang Feng, Yadong Mu, Katerina Fragkiadaki*\
+*Peking University, ByteDance, Carnegie Mellon University*\
+arxiv. [Website](https://wgsxm.github.io/projects/partcrafter/) | [Paper](https://arxiv.org/abs/2506.05573) | [Code](https://github.com/wgsxm/PartCrafter)
+
+
 ### static scene assert
 
 **1.synthesis**
@@ -30,7 +37,7 @@ arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/
  **ACDC: Automated Creation of Digital Cousins for Robust Policy Learning**\
  *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*
  *Stanford University*
- CoRL 2024. [Website]()
+ CoRL 2024. [Website](https://digital-cousins.github.io/) | [Paper](https://arxiv.org/abs/2410.07408) | [Code](https://github.com/cremebrule/digital-cousins)
  
 **3.recon**
 
@@ -55,6 +62,14 @@ ICRA 2025. [Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.or
 *Tsinghua University, Shanghai Qi Zhi Institute, Shanghai AI Lab*\
 RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.org/abs/2502.16932) | [Code](https://github.com/TEA-Lab/DemoGen)
 
+**3.combination generalization**
+
+**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**\
+*William Ljungbergh†, Bernardo Taveira†, Wenzhao Zheng, Adam Tonderski, Chensheng Peng, Fredrik Kahl, Christoffer Petersson, Michael Felsberg, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan*\
+*Zenseact, Linköping University, Chalmers University, UC Berkeley*\
+arxiv. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper](https://arxiv.org/abs/2506.07826)
+
+
 **3.LLM agent**
 
 **GenSim: A General Social Simulation Platform with Large Language Model based Agents**\
@@ -77,4 +92,7 @@ arXiv. [Website](https://pjlab-adg.github.io/DriveArena/) | [Paper](https://arxi
 *CMU, Tsinghua IIIS, MIT CSAIL, UMass Amherst, MIT-IBM AI Lab*\
 ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/abs/2311.01455) | [Code](https://github.com/Genesis-Embodied-AI/RoboGen)
 
-
+**RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**\
+*Xinhai Li, Jialin Li, Ziheng Zhang, Rui Zhang, Fan Jia, Tiancai Wang, Haoqiang Fan, Kuo-Kun Tseng, Ruiping Wang*\
+*Harbin Institute of Technology, Shenzhen; Institute of Computing Technology, Chinese Academy of Sciences; MEGVII Technology; Zhejiang University*\
+arXiv. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
