@@ -35,8 +35,8 @@ arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/
 **2.one2many**
 
  **ACDC: Automated Creation of Digital Cousins for Robust Policy Learning**\
- *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*
- *Stanford University*
+ *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*\
+ *Stanford University*\
  CoRL 2024. [Website](https://digital-cousins.github.io/) | [Paper](https://arxiv.org/abs/2410.07408) | [Code](https://github.com/cremebrule/digital-cousins)
  
 **3.recon**
@@ -68,6 +68,13 @@ RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.o
 *William Ljungbergh†, Bernardo Taveira†, Wenzhao Zheng, Adam Tonderski, Chensheng Peng, Fredrik Kahl, Christoffer Petersson, Michael Felsberg, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan*\
 *Zenseact, Linköping University, Chalmers University, UC Berkeley*\
 arxiv. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper](https://arxiv.org/abs/2506.07826)
+
+### world model
+
+**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
+*Xuanchi Ren, Yifan Lu, Tianshi Cao, Ruiyuan Gao, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling*\
+*NVIDIA*\
+arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/) | [Paper](https://arxiv.org/abs/2506.09042) | [Code](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
 
 
 **3.LLM agent**
