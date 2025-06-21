@@ -69,12 +69,12 @@ RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.o
 *Zenseact, Linköping University, Chalmers University, UC Berkeley*\
 arxiv. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper](https://arxiv.org/abs/2506.07826)
 
-### world model
 
-**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
-*Xuanchi Ren, Yifan Lu, Tianshi Cao, Ruiyuan Gao, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling*\
-*NVIDIA*\
-arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/) | [Paper](https://arxiv.org/abs/2506.09042) | [Code](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
+**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**\
+*Xinjie Wang, Liu Liu, Yu Cao, Ruiqi Wu, Wenkang Qin, Dehui Wang, Wei Sui, Zhizhong Su*\
+*Horizon Robotics; GigaAI; 3D-Robotics; Shanghai Jiao Tong University; VCIP, CS, Nankai University*\
+arxiv. [Website](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [Paper](https://arxiv.org/abs/2506.10600) | [Code](https://github.com/HorizonRobotics/EmbodiedGen)
+
 
 
 **3.LLM agent**
@@ -84,6 +84,21 @@ arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams
 *Renmin University of China, University College London, Alibaba Group*\
 arXiv. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/TangJiakai/GenSim)
 
+
+### world model
+
+**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
+*Xuanchi Ren, Yifan Lu, Tianshi Cao, Ruiyuan Gao, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling*\
+*NVIDIA*\
+arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/) | [Paper](https://arxiv.org/abs/2506.09042) | [Code](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
+
+
+### condition genaration
+
+**𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**\
+*Yu Yang, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee*\
+*Zhejiang University, National University of Singapore*\
+arxiv. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/abs/2506.13558) | [Code](https://github.com/yuyang-cloud/X-Scene)
 
 
 
