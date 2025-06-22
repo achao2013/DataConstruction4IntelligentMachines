@@ -32,6 +32,11 @@ arxiv. [Website](https://wgsxm.github.io/projects/partcrafter/) | [Paper](https:
 *NVIDIA Research, Purdue University*\
 arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/) | [Paper](https://arxiv.org/abs/2505.02836)
 
+**SceneLCM: End-to-End Layout-Guided Interactive Indoor Scene Generation with Latent Consistency Model**\
+*Yangkai Lin, Jiabao Lei, Kui Jia*\
+*School of Electronic and Information Engineering South China University of Technology; The Chinese University of Hong Kong, Shenzhen; School of Data Science The Chinese University of Hong Kong, Shenzhen*\
+arxiv. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://arxiv.org/abs/2506.07091) 
+
 **2.one2many**
 
  **ACDC: Automated Creation of Digital Cousins for Robust Policy Learning**\
