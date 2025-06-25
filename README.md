@@ -9,7 +9,7 @@ This repo is constructed for collecting and categorizing papers about data const
 **ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**\
 *Yu Liu, Baoxiong Jia, Ruijie Lu, Junfeng Ni, Song-Chun Zhu, Siyuan Huang*\
 *Tsinghua University; National Key Lab of General AI, BIGAI; Peking University*\
-ICLR2025. [Website](https://articulate-gs.github.io/) | [Paper](https://arxiv.org/abs/2502.19459) | [Data](https://huggingface.co/datasets/YuLiu/ArtGS-Dataset) | [Code](https://github.com/YuLiu-LY/ArtGS/tree/main) 
+ICLR 2025. [Website](https://articulate-gs.github.io/) | [Paper](https://arxiv.org/abs/2502.19459) | [Data](https://huggingface.co/datasets/YuLiu/ArtGS-Dataset) | [Code](https://github.com/YuLiu-LY/ArtGS/tree/main) 
 
 **Object-Aware Gaussian Splatting for Robotic Manipulation**\
 *Yulong Li, Deepak Pathak*\
@@ -20,7 +20,7 @@ ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper
 **PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**\
 *Yuchen Lin, Chenguo Lin, Panwang Pan, Honglei Yan, Yiqiang Feng, Yadong Mu, Katerina Fragkiadaki*\
 *Peking University, ByteDance, Carnegie Mellon University*\
-arxiv. [Website](https://wgsxm.github.io/projects/partcrafter/) | [Paper](https://arxiv.org/abs/2506.05573) | [Code](https://github.com/wgsxm/PartCrafter)
+arxiv 2025. [Website](https://wgsxm.github.io/projects/partcrafter/) | [Paper](https://arxiv.org/abs/2506.05573) | [Code](https://github.com/wgsxm/PartCrafter)
 
 
 ### static scene assert
@@ -35,7 +35,7 @@ arXiv preprint 2025. [Website](https://research.nvidia.com/labs/dir/scenethesis/
 **SceneLCM: End-to-End Layout-Guided Interactive Indoor Scene Generation with Latent Consistency Model**\
 *Yangkai Lin, Jiabao Lei, Kui Jia*\
 *School of Electronic and Information Engineering South China University of Technology; The Chinese University of Hong Kong, Shenzhen; School of Data Science The Chinese University of Hong Kong, Shenzhen*\
-arxiv. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://arxiv.org/abs/2506.07091) 
+arxiv 2025. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://arxiv.org/abs/2506.07091) 
 
 **2.one2many**
 
@@ -72,13 +72,13 @@ RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.o
 **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**\
 *William Ljungbergh†, Bernardo Taveira†, Wenzhao Zheng, Adam Tonderski, Chensheng Peng, Fredrik Kahl, Christoffer Petersson, Michael Felsberg, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan*\
 *Zenseact, Linköping University, Chalmers University, UC Berkeley*\
-arxiv. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper](https://arxiv.org/abs/2506.07826)
+arxiv 2025. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper](https://arxiv.org/abs/2506.07826)
 
 
 **EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**\
 *Xinjie Wang, Liu Liu, Yu Cao, Ruiqi Wu, Wenkang Qin, Dehui Wang, Wei Sui, Zhizhong Su*\
 *Horizon Robotics; GigaAI; 3D-Robotics; Shanghai Jiao Tong University; VCIP, CS, Nankai University*\
-arxiv. [Website](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [Paper](https://arxiv.org/abs/2506.10600) | [Code](https://github.com/HorizonRobotics/EmbodiedGen)
+arxiv 2025. [Website](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [Paper](https://arxiv.org/abs/2506.10600) | [Code](https://github.com/HorizonRobotics/EmbodiedGen)
 
 
 
@@ -87,7 +87,7 @@ arxiv. [Website](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.
 **GenSim: A General Social Simulation Platform with Large Language Model based Agents**\
 *Jiakai Tang, Heyang Gao, Xuchen Pan, Lei Wang, Haoran Tan, Dawei Gao, Yushuo Chen, Xu Chen, Yankai Lin, Yaliang Li, Bolin Ding, Jingren Zhou, Jun Wang, Ji-Rong Wen*\
 *Renmin University of China, University College London, Alibaba Group*\
-arXiv. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/TangJiakai/GenSim)
+arXiv 2025. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/TangJiakai/GenSim)
 
 
 ### world model
@@ -95,7 +95,12 @@ arXiv. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/Tan
 **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
 *Xuanchi Ren, Yifan Lu, Tianshi Cao, Ruiyuan Gao, Shengyu Huang, Amirmojtaba Sabour, Tianchang Shen, Tobias Pfaff, Jay Zhangjie Wu, Runjian Chen, Seung Wook Kim, Jun Gao, Laura Leal-Taixe, Mike Chen, Sanja Fidler, Huan Ling*\
 *NVIDIA*\
-arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/) | [Paper](https://arxiv.org/abs/2506.09042) | [Code](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
+arxiv 2025. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/) | [Paper](https://arxiv.org/abs/2506.09042) | [Code](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
+
+**DreamGen: Unlocking Generalization in Robot Learning through Video World Models**\
+*Joel Jang, Seonghyeon Ye, Zongyu Lin, Jiannan Xiang, Johan Bjorck, Yu Fang, Fengyuan Hu, Spencer Huang, Kaushil Kundalia, Yen-Chen Lin, Loic Magne, Ajay Mandlekar, Avnish Narayan, You Liang Tan, Guanzhi Wang, Jing Wang, Qi Wang, Yinzhen Xu, Xiaohui Zeng, Kaiyuan Zheng, Ruijie Zheng, Ming-Yu Liu, Luke Zettlemoyer, Dieter Fox, Jan Kautz, Scott Reed, Yuke Zhu, Linxi Fan*\
+*NVIDIA, University of Washington, KAIST, UCLA, UCSD, CalTech, NTU, University of Maryland, UT Austin*\
+arxiv 2025. [Website](https://research.nvidia.com/labs/gear/dreamgen/) | [Paper](https://arxiv.org/abs/2505.12705) | [Code](https://github.com/NVIDIA/GR00T-Dreams)
 
 
 ### condition genaration
@@ -103,16 +108,21 @@ arxiv. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams
 **𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**\
 *Yu Yang, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee*\
 *Zhejiang University, National University of Singapore*\
-arxiv. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/abs/2506.13558) | [Code](https://github.com/yuyang-cloud/X-Scene)
+arxiv 2025. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/abs/2506.13558) | [Code](https://github.com/yuyang-cloud/X-Scene)
 
 
 
 ## simulation paradigm
 
+**Pseudo-Simulation for Autonomous Driving**\
+*Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, Caojun Wang, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta*\
+*University of Tübingen, Tübingen AI Center, NVIDIA Research, Robert Bosch GmbH, OpenDriveLab at Shanghai Innovation Institute, University of Stuttgart, University of Toronto, Vector Institute, Stanford University*\
+ArXiv 2025. | [Paper](https://arxiv.org/abs/2506.04218) | [Code](https://github.com/autonomousvision/navsim)
+
 **DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**\
 *Xuemeng Yang, Licheng Wen1, Yukai Ma, Jianbiao Mei, Xin Li,Tiantian Wei, Wenjie Lei, Daocheng Fu, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yong Liu, Yu Qiao*\
 *Shanghai AI Laboratory, Zhejiang University, Shanghai Jiao Tong University, Technical University of Munich, East China Normal University*\
-arXiv. [Website](https://pjlab-adg.github.io/DriveArena/) | [Paper](https://arxiv.org/abs/2408.00415) | [Code](https://github.com/PJLab-ADG/DriveArena)
+arXiv 2025. [Website](https://pjlab-adg.github.io/DriveArena/) | [Paper](https://arxiv.org/abs/2408.00415) | [Code](https://github.com/PJLab-ADG/DriveArena)
 
 **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**\
 *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Katerina Fragkiadaki, Zackory Erickson, David Held, Chuang Gan*\
@@ -122,4 +132,4 @@ ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/
 **RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**\
 *Xinhai Li, Jialin Li, Ziheng Zhang, Rui Zhang, Fan Jia, Tiancai Wang, Haoqiang Fan, Kuo-Kun Tseng, Ruiping Wang*\
 *Harbin Institute of Technology, Shenzhen; Institute of Computing Technology, Chinese Academy of Sciences; MEGVII Technology; Zhejiang University*\
-arXiv. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
+arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
