@@ -93,7 +93,7 @@ arXiv 2025. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.co
 **RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**\
 *Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Qiwei Liang, Zixuan Li, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, Tianling Xu, Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu*\
 *SJTU ScaleLab, HKU MMLab‡, Shanghai AI Lab, 4D-Robotics, SZU, THU, TeleAI, FDU, USTC, SUSTech, SYSU, CSU, NEU, HKU-SH ICRC, NJU, Lumina EAI*\
-arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper]()https://arxiv.org/abs/2506.18088 | [Code](https://github.com/robotwin-Platform/RoboTwin)
+arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arxiv.org/abs/2506.18088) | [Code](https://github.com/robotwin-Platform/RoboTwin)
 
 **5.input2gt**
 
