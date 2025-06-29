@@ -67,6 +67,12 @@ ICRA 2025. [Website](https://dexmimicgen.github.io/) |  [Paper](https://arxiv.or
 *Tsinghua University, Shanghai Qi Zhi Institute, Shanghai AI Lab*\
 RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.org/abs/2502.16932) | [Code](https://github.com/TEA-Lab/DemoGen)
 
+**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**\
+*Sizhe Yang, Wenye Yu, Jia Zeng, Jun Lv, Kerui Ren, Cewu Lu, Dahua Lin, Jiangmiao Pang*\
+*Shanghai AI Laboratory， The Chinese University of Hong Kong， Shanghai Jiao Tong University*\
+RSS 2025. [Website](https://yangsizhe.github.io/robosplat/) | [Paper](https://arxiv.org/abs/2504.13175) | [Code](https://github.com/OpenRobotLab/robosplat)
+
+
 **3.combination generalization**
 
 **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**\
@@ -80,6 +86,10 @@ arxiv 2025. [Website](https://research.zenseact.com/publications/R3D2/) | [Paper
 *Horizon Robotics; GigaAI; 3D-Robotics; Shanghai Jiao Tong University; VCIP, CS, Nankai University*\
 arxiv 2025. [Website](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [Paper](https://arxiv.org/abs/2506.10600) | [Code](https://github.com/HorizonRobotics/EmbodiedGen)
 
+**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**\
+*Mohammad Nomaan Qureshi, Sparsh Garg, Francisco Yandun, David Held, George Kantor, Abhisesh Silwal*\
+*Carnegie Mellon University*\
+ICRA 2025. [Website](https://splatsim.github.io/) | [Paper](https://arxiv.org/abs/2409.10161) | [Code](https://github.com/qureshinomaan/SplatSim)
 
 
 **4.LLM agent**
@@ -95,7 +105,7 @@ arXiv 2025. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.co
 *SJTU ScaleLab, HKU MMLab‡, Shanghai AI Lab, 4D-Robotics, SZU, THU, TeleAI, FDU, USTC, SUSTech, SYSU, CSU, NEU, HKU-SH ICRC, NJU, Lumina EAI*\
 arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arxiv.org/abs/2506.18088) | [Code](https://github.com/robotwin-Platform/RoboTwin)
 
-**5.input2gt**
+**5.small2large**
 
 **Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**\
 *Jianglong Ye, Keyi Wang, Chengjing Yuan, Ruihan Yang, Yiquan Li, Jiyue Zhu, Yuzhe Qin, Xueyan Zou, Xiaolong Wang*\
@@ -145,3 +155,6 @@ ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/
 *Xinhai Li, Jialin Li, Ziheng Zhang, Rui Zhang, Fan Jia, Tiancai Wang, Haoqiang Fan, Kuo-Kun Tseng, Ruiping Wang*\
 *Harbin Institute of Technology, Shenzhen; Institute of Computing Technology, Chinese Academy of Sciences; MEGVII Technology; Zhejiang University*\
 arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
+
+
+
