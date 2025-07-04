@@ -73,6 +73,11 @@ RSS 2025. [Website](https://demo-generation.github.io) | [Paper](https://arxiv.o
 RSS 2025. [Website](https://yangsizhe.github.io/robosplat/) | [Paper](https://arxiv.org/abs/2504.13175) | [Code](https://github.com/OpenRobotLab/robosplat)
 
 
+**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**\
+*Yu Fang, Yue Yang, Xinghao Zhu, Kaiyuan Zheng, Gedas Bertasius, Daniel Szafir, Mingyu Ding*\
+*Department of Computer Science, University of North Carolina,Robotics and AI Institute, Department of Electrical and Computer Engineering, University of Washington*\
+arxiv2025. [Website](https://yuffish.github.io/rebot/) | [Paper](https://arxiv.org/abs/2503.14526) | [Code](https://github.com/yuffish/rebot)
+
 **3.combination generalization**
 
 **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**\
@@ -135,6 +140,11 @@ arxiv 2025. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/ab
 
 
 ## simulation paradigm
+
+**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**\
+*Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yang, Ruslan Partsey, Ruta Desai, Alexander William Clegg, Michal Hlavac, So Yeon Min, Vladimír Vondruš, Theophile Gervet, Vincent-Pierre Berges, John M. Turner, Oleksandr Maksymets, Zsolt Kira, Mrinal Kalakrishnan, Jitendra Malik, Devendra Singh Chaplot, Unnat Jain, Dhruv Batra, Akshara Rai, Roozbeh Mottaghi*\
+*Fair, Meta*\
+arxiv 2023. [Website](https://aihabitat.org/habitat3/) | [Paper](https://arxiv.org/abs/2310.13724) | [Code](https://github.com/facebookresearch/habitat-lab)
 
 **Pseudo-Simulation for Autonomous Driving**\
 *Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, Caojun Wang, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta*\
