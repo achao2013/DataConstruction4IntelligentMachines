@@ -104,6 +104,10 @@ ICRA 2025. [Website](https://splatsim.github.io/) | [Paper](https://arxiv.org/ab
 *Renmin University of China, University College London, Alibaba Group*\
 arXiv 2025. [Paper](https://arxiv.org/abs/2410.04360) | [Code](https://github.com/TangJiakai/GenSim)
 
+**GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs**\
+*Pu Hua, Minghuan Liu, Annabella Macaluso, Yunfeng Lin, Weinan Zhang, Huazhe Xu, Lirui Wang*\
+*Tsinghua University, UCSD, Shanghai Jiao Tong University, MIT CSAIL*\
+CoRL 2024. [Website](https://gensim2.github.io/) | [Paper](https://arxiv.org/abs/2410.03645) | [Code](https://github.com/GenSim2/gensim2)
 
 **RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**\
 *Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Qiwei Liang, Zixuan Li, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, Tianling Xu, Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu*\
