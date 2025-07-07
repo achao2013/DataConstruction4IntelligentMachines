@@ -121,6 +121,13 @@ arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arx
 *UC San Diego*\
 RSS 2025. [Website](https://jianglongye.com/dex1b/) | [Paper](https://www.arxiv.org/abs/2506.17198)
 
+**6.HSI**
+
+**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**\
+*Hongjie Li, Hong-Xing Yu, Jiaman Li, Jiajun Wu*\
+*Stanford University*\
+arxiv 2024. [Website](https://awfuact.github.io/zerohsi/) | [Paper](https://arxiv.org/abs/2412.18600)
+
 ### world model
 
 **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
