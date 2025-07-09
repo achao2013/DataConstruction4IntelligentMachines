@@ -152,6 +152,11 @@ arxiv 2025. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/ab
 
 ## simulation paradigm
 
+**AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning**\
+*Yuanfei Wang, Xiaojie Zhang, Ruihai Wu, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He, Yizhou Wang, Hao Dong*\
+*Peking University, Beijing University of Posts and Telecommunications*\
+ICLR 2025. [Website](https://adamanip.github.io/) | [Paper](https://arxiv.org/abs/2502.11124) | [Code](https://github.com/yuanfei-Wang/AdaManip)
+
 **Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**\
 *Xavier Puig, Eric Undersander, Andrew Szot, Mikael Dallaire Cote, Tsung-Yen Yang, Ruslan Partsey, Ruta Desai, Alexander William Clegg, Michal Hlavac, So Yeon Min, Vladimír Vondruš, Theophile Gervet, Vincent-Pierre Berges, John M. Turner, Oleksandr Maksymets, Zsolt Kira, Mrinal Kalakrishnan, Jitendra Malik, Devendra Singh Chaplot, Unnat Jain, Dhruv Batra, Akshara Rai, Roozbeh Mottaghi*\
 *Fair, Meta*\
