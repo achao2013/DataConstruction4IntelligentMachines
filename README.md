@@ -43,6 +43,9 @@ arxiv 2025. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://a
  *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*\
  *Stanford University*\
  CoRL 2024. [Website](https://digital-cousins.github.io/) | [Paper](https://arxiv.org/abs/2410.07408) | [Code](https://github.com/cremebrule/digital-cousins)
+
+
+
  
 **3.recon**
 
@@ -50,6 +53,13 @@ arxiv 2025. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://a
 *Jianhao Zheng, Zihan Zhu, Valentin Bieri, Marc Pollefeys, Songyou Peng, Iro Armeni*\
 *Stanford University; ETH Zürich; Microsoft*\
 CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org/abs/2504.03886) | [Code](https://github.com/GradientSpaces/WildGS-SLAM)
+
+**4.real2sim**
+
+**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**\
+*Zhening Huang, Xiaoyang Wu, Fangcheng Zhong, Hengshuang Zhao, Matthias Nießner, Joan Lasenby*\
+*University of Cambridge, The University of Hong Kong, Technical University of Munich*\
+arxiv2025. [Website](https://litereality.github.io/) | [Paper](https://arxiv.org/abs/2507.02861) | [Code](https://github.com/LiteReality/LiteReality)
 
 ### dynamic scene assert
 
