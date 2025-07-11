@@ -192,5 +192,8 @@ ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/
 *Harbin Institute of Technology, Shenzhen; Institute of Computing Technology, Chinese Academy of Sciences; MEGVII Technology; Zhejiang University*\
 arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
 
-
+**MuJoCo Playground**\
+*Kevin Zakka, Baruch Tabanpour, Qiayuan Liao, Mustafa Haiderbhai, Samuel Holt, Jing Yuan Luo, Arthur Allshire, Erik Frey, Koushil Sreenath, Lueder A. Kahrs, Carmelo Sferrazza, Yuval Tassa, Pieter Abbeel*\
+*UC Berkeley, Google DeepMind, University of Toronto, University of Cambridge*\
+RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/abs/2502.08844) | [Code](https://github.com/google-deepmind/mujoco_playground)
 
