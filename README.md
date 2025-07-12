@@ -151,6 +151,8 @@ arxiv 2025. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_d
 arxiv 2025. [Website](https://research.nvidia.com/labs/gear/dreamgen/) | [Paper](https://arxiv.org/abs/2505.12705) | [Code](https://github.com/NVIDIA/GR00T-Dreams)
 
 
+
+
 ### condition genaration
 
 **𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**\
@@ -159,8 +161,27 @@ arxiv 2025. [Website](https://research.nvidia.com/labs/gear/dreamgen/) | [Paper]
 arxiv 2025. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/abs/2506.13558) | [Code](https://github.com/yuyang-cloud/X-Scene)
 
 
+**BEV-VAE: Multi-view Image Generation with Spatial Consistency for Autonomous Driving**\
+*Zeming Chen, Hang Zhao*\
+*Shanghai Qi Zhi Institute, IIIS, Tsinghua University*\
+arxiv 2025. [Paper](https://arxiv.org/abs/2507.00707) | [code](https://github.com/Czm369/bev-vae)
 
 ## simulation paradigm
+
+### classic
+
+**VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion**\
+*Shaoting Zhu, Linzhan Mou, Derun Li, Baijun Ye, Runhan Huang, Hang Zhao*\
+*Tsinghua University, Shanghai Qi Zhi Institute, Galaxea AI, Shanghai Jiao Tong University*\
+RA-L 2025. [Website](https://vr-robo.github.io/) | [Paper](https://arxiv.org/abs/2502.01536) | [Code](https://github.com/zst1406217/VR-Robo)
+
+**MuJoCo Playground**\
+*Kevin Zakka, Baruch Tabanpour, Qiayuan Liao, Mustafa Haiderbhai, Samuel Holt, Jing Yuan Luo, Arthur Allshire, Erik Frey, Koushil Sreenath, Lueder A. Kahrs, Carmelo Sferrazza, Yuval Tassa, Pieter Abbeel*\
+*UC Berkeley, Google DeepMind, University of Toronto, University of Cambridge*\
+RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/abs/2502.08844) | [Code](https://github.com/google-deepmind/mujoco_playground)
+
+
+### new
 
 **AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning**\
 *Yuanfei Wang, Xiaojie Zhang, Ruihai Wu, Yu Li, Yan Shen, Mingdong Wu, Zhaofeng He, Yizhou Wang, Hao Dong*\
@@ -192,10 +213,6 @@ ICML 2024. [Website](https://robogen-ai.github.io/) | [Paper](https://arxiv.org/
 *Harbin Institute of Technology, Shenzhen; Institute of Computing Technology, Chinese Academy of Sciences; MEGVII Technology; Zhejiang University*\
 arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/abs/2411.11839) 
 
-**MuJoCo Playground**\
-*Kevin Zakka, Baruch Tabanpour, Qiayuan Liao, Mustafa Haiderbhai, Samuel Holt, Jing Yuan Luo, Arthur Allshire, Erik Frey, Koushil Sreenath, Lueder A. Kahrs, Carmelo Sferrazza, Yuval Tassa, Pieter Abbeel*\
-*UC Berkeley, Google DeepMind, University of Toronto, University of Cambridge*\
-RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/abs/2502.08844) | [Code](https://github.com/google-deepmind/mujoco_playground)
 
 
 **ReSim: Reliable World Simulation for Autonomous Driving**\
