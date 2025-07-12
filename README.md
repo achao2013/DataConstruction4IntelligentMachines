@@ -197,3 +197,9 @@ arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/a
 *UC Berkeley, Google DeepMind, University of Toronto, University of Cambridge*\
 RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/abs/2502.08844) | [Code](https://github.com/google-deepmind/mujoco_playground)
 
+
+**ReSim: Reliable World Simulation for Autonomous Driving**\
+*Jiazhi Yang, Kashyap Chitta, Shenyuan Gao, Long Chen, Yuqian Shao, Xiaosong Jia, Hongyang Li, Andreas Geiger, Xiangyu Yue, Li Chen*\
+*The Chinese University of Hong Kong, The University of Hong Kong, OpenDriveLab at Shanghai AI Lab, NVIDIA Research, Xiaomi EV, Shanghai Jiao Tong University, University of Tübingen, Tübingen AI Center, HKUST*\
+arxiv2025. [Website](https://opendrivelab.com/ReSim) | [Paper](https://arxiv.org/abs/2506.09981) | [Code](https://github.com/OpenDriveLab/ReSim)
+
