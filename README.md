@@ -22,6 +22,16 @@ ICRA 2024 Workshop. [Website](https://object-aware-gaussian.github.io/) | [Paper
 *Peking University, ByteDance, Carnegie Mellon University*\
 arxiv 2025. [Website](https://wgsxm.github.io/projects/partcrafter/) | [Paper](https://arxiv.org/abs/2506.05573) | [Code](https://github.com/wgsxm/PartCrafter)
 
+**Hand-held Object Reconstruction from RGB Video with Dynamic Interaction**\
+*Shijian Jiang, Qi Ye, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen*\
+*College of Control Science and Engineering, Zhejiang University; Key Lab of CS&AUS of Zhejiang Province; State Key Lab of CAD&CG, Zhejiang University; Zhejiang Lab; OPPO USResearch Center*\
+CVPR 2025. [Website](https://east-j.github.io/dynhor/) | [Paper](https://arxiv.org/abs/2312.16425) | [Code](https://github.com/EAST-J/Dynhor)
+
+**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**\
+*Zhao Jin, Zhengping Che, Zhen Zhao, Kun Wu, Yuheng Zhang, Yinuo Zhao, Zehui Liu, Qiang Zhang, Xiaozhu Ju, Jing Tian, Yousong Xue, Jian Tang*\
+*Beijing Innovation Center of Humanoid Robotics, Beijing Institute of Architectural Design*\
+arxiv 2025. [Website](https://x-humanoid-artvip.github.io/) | [Paper](https://www.arxiv.org/abs/2506.04941) | [dataset](https://github.com/x-humanoid-artvip/x-humanoid-artvip.github.io) 
+
 
 ### static scene assert
 
@@ -138,6 +148,8 @@ RSS 2025. [Website](https://jianglongye.com/dex1b/) | [Paper](https://www.arxiv.
 *Stanford University*\
 arxiv 2024. [Website](https://awfuact.github.io/zerohsi/) | [Paper](https://arxiv.org/abs/2412.18600)
 
+
+
 ### world model
 
 **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
@@ -165,6 +177,11 @@ arxiv 2025. [Website](https://x-scene.github.io/) | [Paper](https://arxiv.org/ab
 *Zeming Chen, Hang Zhao*\
 *Shanghai Qi Zhi Institute, IIIS, Tsinghua University*\
 arxiv 2025. [Paper](https://arxiv.org/abs/2507.00707) | [code](https://github.com/Czm369/bev-vae)
+
+**Controllable 3D Outdoor Scene Generation via Scene Graphs**\
+*Yuheng Liu, Xinke Li, Yuning Zhang, Lu Qi, Xin Li, Wenping Wang, Chongshou Li, Xueting Li, Ming-Hsuan Yang*\
+*Texas A&M University, UC Merced, City University of Hong Kong, Southwest Jiaotong University, Insta360 Research, NVIDIA*\
+ICCV 2025. [Website](https://yuheng.ink/project-page/control-3d-scene/) | [Paper](https://arxiv.org/abs/2503.07152) | [Code](https://github.com/yuhengliu02/control-3d-scene)
 
 ## simulation paradigm
 
