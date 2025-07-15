@@ -237,3 +237,7 @@ arXiv 2025. [Website](https://robogsim.github.io/) | [Paper](https://arxiv.org/a
 *The Chinese University of Hong Kong, The University of Hong Kong, OpenDriveLab at Shanghai AI Lab, NVIDIA Research, Xiaomi EV, Shanghai Jiao Tong University, University of Tübingen, Tübingen AI Center, HKUST*\
 arxiv2025. [Website](https://opendrivelab.com/ReSim) | [Paper](https://arxiv.org/abs/2506.09981) | [Code](https://github.com/OpenDriveLab/ReSim)
 
+**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**\
+*Boyuan Wang, Xinpan Meng, Xiaofeng Wang, Zheng Zhu, Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, Guan Huang, Xingang Wang*\
+*GigaAI, Institute of Automation, Chinese Academy of Sciences, Peking University*\
+arxiv 2025. [Website](https://embodiedreamer.github.io/) | [Paper](https://github.com/GigaAI-research/EmbodieDreamer) | [Code](https://github.com/GigaAI-research/EmbodieDreamer)
