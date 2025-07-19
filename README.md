@@ -32,6 +32,11 @@ CVPR 2025. [Website](https://east-j.github.io/dynhor/) | [Paper](https://arxiv.o
 *Beijing Innovation Center of Humanoid Robotics, Beijing Institute of Architectural Design*\
 arxiv 2025. [Website](https://x-humanoid-artvip.github.io/) | [Paper](https://www.arxiv.org/abs/2506.04941) | [dataset](https://github.com/x-humanoid-artvip/x-humanoid-artvip.github.io) 
 
+**PhysX: Physical-Grounded 3D Asset Generation**\
+*Ziang Cao, Zhaoxi Chen, Liang Pan, Ziwei Liu*\
+*Nanyang Technological University, Shanghai AI Lab*\
+arxiv 2025. [Website](https://physx-3d.github.io/) | [Paper](https://arxiv.org/abs/2507.12465) | [Code](https://github.com/ziangcao0312/PhysX)
+
 
 ### static scene assert
 
