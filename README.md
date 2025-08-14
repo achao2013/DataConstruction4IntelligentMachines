@@ -153,7 +153,12 @@ RSS 2025. [Website](https://jianglongye.com/dex1b/) | [Paper](https://www.arxiv.
 *Stanford University*\
 arxiv 2024. [Website](https://awfuact.github.io/zerohsi/) | [Paper](https://arxiv.org/abs/2412.18600)
 
+**7.new view**
 
+**ArbiViewGen: Controllable Arbitrary Viewpoint Camera Data Generation for Autonomous Driving via Stable Diffusion Models**\
+*Tsinghua University;School of Science, Minzu University;CMU;The Hong Kong University of Science and Technology*\
+*Yatong Lan, Jingfeng Chen, Yiru Wang, Lei He*\
+arxiv 2025. [Paper](https://arxiv.org/pdf/2508.05236) 
 
 ### world model
 
