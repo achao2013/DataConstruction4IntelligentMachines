@@ -139,6 +139,13 @@ CoRL 2024. [Website](https://gensim2.github.io/) | [Paper](https://arxiv.org/abs
 *SJTU ScaleLab, HKU MMLab‡, Shanghai AI Lab, 4D-Robotics, SZU, THU, TeleAI, FDU, USTC, SUSTech, SYSU, CSU, NEU, HKU-SH ICRC, NJU, Lumina EAI*\
 arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arxiv.org/abs/2506.18088) | [Code](https://github.com/robotwin-Platform/RoboTwin)
 
+
+**Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis**\
+*Kunyu Feng, Yue Ma, Xinhua Zhang, Boshi Liu, Yikuang Yuluo, Yinhan Zhang, Runtao Liu, Hongyu Liu, Zhiyuan Qin, Shanhui Mo, Qifeng Chen, Zeyu Wang*\
+*HKUST(GZ), HKUST, Tsinghua Univerisity, Peking University, Chongqing University, Beijing Innovation Center of Humanoid Robotics*\
+. [Website]() | [Paper](https://arxiv.org/abs/2508.05580) 
+
+
 **5.small2large**
 
 **Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**\
