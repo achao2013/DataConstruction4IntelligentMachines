@@ -143,7 +143,7 @@ arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arx
 **Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis**\
 *Kunyu Feng, Yue Ma, Xinhua Zhang, Boshi Liu, Yikuang Yuluo, Yinhan Zhang, Runtao Liu, Hongyu Liu, Zhiyuan Qin, Shanhui Mo, Qifeng Chen, Zeyu Wang*\
 *HKUST(GZ), HKUST, Tsinghua Univerisity, Peking University, Chongqing University, Beijing Innovation Center of Humanoid Robotics*\
-. [Website]() | [Paper](https://arxiv.org/abs/2508.05580) 
+arxiv 2025.  [Paper](https://arxiv.org/abs/2508.05580) 
 
 
 **5.small2large**
@@ -214,6 +214,10 @@ RA-L 2025. [Website](https://vr-robo.github.io/) | [Paper](https://arxiv.org/abs
 *UC Berkeley, Google DeepMind, University of Toronto, University of Cambridge*\
 RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/abs/2502.08844) | [Code](https://github.com/google-deepmind/mujoco_playground)
 
+**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**\
+*Rui Li, Zixuan Hu, Wenxi Qu, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou, Shixiang Tang*\
+*Shanghai AI Laboratory, Peking University, Oxford, The Chinese University of Hong Kong, Harbin Institute of Technology*\
+arxiv 2025. [Paper](https://arxiv.org/abs/2505.22634)
 
 ### new
 
