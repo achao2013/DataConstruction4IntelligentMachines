@@ -262,3 +262,11 @@ arxiv2025. [Website](https://opendrivelab.com/ReSim) | [Paper](https://arxiv.org
 *Boyuan Wang, Xinpan Meng, Xiaofeng Wang, Zheng Zhu, Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, Guan Huang, Xingang Wang*\
 *GigaAI, Institute of Automation, Chinese Academy of Sciences, Peking University*\
 arxiv 2025. [Website](https://embodiedreamer.github.io/) | [Paper](https://github.com/GigaAI-research/EmbodieDreamer) | [Code](https://github.com/GigaAI-research/EmbodieDreamer)
+
+
+**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**\
+*Yue Liao, Pengfei Zhou, Siyuan Huang, Donglin Yang, Shengcong Chen, Yuxin Jiang, Yue Hu, Jingbin Cai, Si Liu, Jianlan Luo, Liliang Chen, Shuicheng Yan, Maoqing Yao, Guanghui Ren*\
+*AgiBot Genie Team NUSLV-Lab BUAA*\
+arxiv 2025. [Website](https://genie-envisioner.github.io/) | [Paper](https://arxiv.org/abs/2508.05635v1) | [Code](https://github.com/AgibotTech/Genie-Envisioner)
+
+
