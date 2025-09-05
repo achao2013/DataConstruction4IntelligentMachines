@@ -76,6 +76,11 @@ CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org
 *University of Cambridge, The University of Hong Kong, Technical University of Munich*\
 arxiv2025. [Website](https://litereality.github.io/) | [Paper](https://arxiv.org/abs/2507.02861) | [Code](https://github.com/LiteReality/LiteReality)
 
+**SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass**\
+*Yanxu Meng, Haoning Wu, Ya Zhang, Weidi Xie*\
+*School of Artificial Intelligence, Shanghai Jiao Tong University*\
+arXiv202508. [Website](https://mengmouxu.github.io/SceneGen/) | [Paper](https://arxiv.org/abs/2508.15769) | [Code](https://github.com/Mengmouxu/SceneGen)
+
 ### dynamic scene assert
 
 **1.recon**
