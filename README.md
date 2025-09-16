@@ -69,6 +69,12 @@ arxiv 2025. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://a
 *Stanford University; ETH Zürich; Microsoft*\
 CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org/abs/2504.03886) | [Code](https://github.com/GradientSpaces/WildGS-SLAM)
 
+**LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos**\
+*Chin-Yang Lin, Cheng Sun, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu*\
+*National Yang Ming Chiao Tung University， NVIDIA Research*\
+ICCV2025. [Website](https://linjohnss.github.io/longsplat/) | [Paper](https://arxiv.org/abs/2508.14041) | [Code](https://github.com/NVlabs/LongSplat)
+
+
 **4.real2sim**
 
 **LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**\
