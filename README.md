@@ -171,7 +171,15 @@ RSS 2025. [Website](https://jianglongye.com/dex1b/) | [Paper](https://www.arxiv.
 *Stanford University*\
 arxiv 2024. [Website](https://awfuact.github.io/zerohsi/) | [Paper](https://arxiv.org/abs/2412.18600)
 
-**7.new view**
+
+**7.HOI**
+
+**InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**\
+*Sirui Xu, Hung Yu Ling, Yu-Xiong Wang, Liang-Yan Gui*\
+*University of Illinois Urbana-Champaign， Electronic Arts*\
+CVPR 2025. [Website](https://sirui-xu.github.io/InterMimic/) | [Paper](https://arxiv.org/abs/2502.20390) | [Code](https://github.com/Sirui-Xu/InterMimic)
+
+**8.new view**
 
 **ArbiViewGen: Controllable Arbitrary Viewpoint Camera Data Generation for Autonomous Driving via Stable Diffusion Models**\
 *Tsinghua University;School of Science, Minzu University;CMU;The Hong Kong University of Science and Technology*\
@@ -229,6 +237,8 @@ RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/
 *Rui Li, Zixuan Hu, Wenxi Qu, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou, Shixiang Tang*\
 *Shanghai AI Laboratory, Peking University, Oxford, The Chinese University of Hong Kong, Harbin Institute of Technology*\
 arxiv 2025. [Paper](https://arxiv.org/abs/2505.22634)
+
+
 
 ### new
 
