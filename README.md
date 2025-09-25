@@ -186,6 +186,13 @@ CVPR 2025. [Website](https://sirui-xu.github.io/InterMimic/) | [Paper](https://a
 *Yatong Lan, Jingfeng Chen, Yiru Wang, Lei He*\
 arxiv 2025. [Paper](https://arxiv.org/pdf/2508.05236) 
 
+
+**9.anyedit**
+*WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance*\
+*Chenxi Song, Yanming Yang, Tong Zhao, Ruibo Li, Chi Zhang*\
+*AGILab,SchoolofEngineering,WestlakeUniversity,Hangzhou,China; TheCollegeofComputingandDataScience,NanyangTechnologicalUniversity,Singapore*\
+arxiv 2025. [Website](https://github.com/Westlake-AGI-Lab/WorldForge)| [Paper](https://arxiv.org/abs/2509.15130) | [Code](https://github.com/Westlake-AGI-Lab/WorldForge)
+
 ### world model
 
 **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
