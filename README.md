@@ -58,9 +58,6 @@ arxiv 2025. [Website](https://scutyklin.github.io/SceneLCM/) | [Paper](https://a
  *Tianyuan Dai, Josiah Wong, Yunfan Jiang, Chen Wang, Cem Gokmen, Ruohan Zhang, Jiajun Wu, Li Fei-Fei*\
  *Stanford University*\
  CoRL 2024. [Website](https://digital-cousins.github.io/) | [Paper](https://arxiv.org/abs/2410.07408) | [Code](https://github.com/cremebrule/digital-cousins)
-
-
-
  
 **3.recon**
 
@@ -75,6 +72,7 @@ CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org
 ICCV2025. [Website](https://linjohnss.github.io/longsplat/) | [Paper](https://arxiv.org/abs/2508.14041) | [Code](https://github.com/NVlabs/LongSplat)
 
 
+
 **4.real2sim**
 
 **LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**\
@@ -86,6 +84,12 @@ arxiv2025. [Website](https://litereality.github.io/) | [Paper](https://arxiv.org
 *Yanxu Meng, Haoning Wu, Ya Zhang, Weidi Xie*\
 *School of Artificial Intelligence, Shanghai Jiao Tong University*\
 arXiv202508. [Website](https://mengmouxu.github.io/SceneGen/) | [Paper](https://arxiv.org/abs/2508.15769) | [Code](https://github.com/Mengmouxu/SceneGen)
+
+**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**\
+*Ziyue Zhu, Zhanqian Wu, Zhenxin Zhu, Lijun Zhou, Haiyang Sun, Bing Wan, Kun Ma, Guang Chen, Hangjun Ye, Jin Xie, jian Yang*\
+*Nankai University, Xiaomi EV, Nanjing University, Suzhou*
+. [Website](https://wm-research.github.io/worldsplat/) | [Paper](https://www.arxiv.org/abs/2509.23402) | [Code](https://github.com/wm-research/worldsplat)
+
 
 ### dynamic scene assert
 
