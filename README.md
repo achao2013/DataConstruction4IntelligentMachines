@@ -3,7 +3,7 @@ This repo is constructed for collecting and categorizing papers about data const
 
 # Techniques
 
-## assert construction
+## assert generation
  
 ### object assert 
 **ArtGS: Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**\
@@ -37,6 +37,15 @@ arxiv 2025. [Website](https://x-humanoid-artvip.github.io/) | [Paper](https://ww
 *Nanyang Technological University, Shanghai AI Lab*\
 arxiv 2025. [Website](https://physx-3d.github.io/) | [Paper](https://arxiv.org/abs/2507.12465) | [Code](https://github.com/ziangcao0312/PhysX)
 
+**SAM3D:3Dfy Anything in Images**\
+*XingyuChen∗, Fu-JenChu∗, PierreGleize∗, KevinJLiang∗, AlexanderSax∗, HaoTang∗, WeiyaoWang∗, MichelleGuo, ThibautHardin, XiangLi◦, AohanLin, JiaweiLiu, ZiqiMa◦, AnushkaSagar, BowenSong◦, XiaodongWang, JianingYang◦, BowenZhang◦, PiotrDollár†, GeorgiaGkioxari†, Matt Feiszli†§, Jitendra Malik*\
+*Meta Superintelligence Labs*\
+arXiv 2025. [Website](https://ai.meta.com/sam3d/) | [Paper](https://ai.meta.com/research/publications/sam-3d-3dfy-anything-in-images/) |  [Code](https://github.com/facebookresearch/sam-3d-objects)
+
+**SAM 3D Body: Robust Full-Body Human Mesh Recovery**\
+*Xitong Yang*, Devansh Kukreja*, Don Pinkus*, Anushka Sagar, Taosha Fan, Jinhyung Park⚬, Soyong Shin⚬, Jinkun Cao, Jiawei Liu, Nicolas Ugrinovic, Matt Feiszli†, Jitendra Malik†, Piotr Dollar†, Kris Kitani†*\
+*Meta Superintelligence Labs*\
+arXiv 2025.  [Website](https://ai.meta.com/blog/sam-3d/) | [Paper](https://ai.meta.com/research/publications/sam-3d-body-robust-full-body-human-mesh-recovery/) | [Code](https://github.com/facebookresearch/sam-3d-body)
 
 ### static scene assert
 
