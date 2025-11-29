@@ -47,6 +47,13 @@ arXiv 2025. [Website](https://ai.meta.com/sam3d/) | [Paper](https://ai.meta.com/
 *Meta Superintelligence Labs*\
 arXiv 2025.  [Website](https://ai.meta.com/blog/sam-3d/) | [Paper](https://ai.meta.com/research/publications/sam-3d-body-robust-full-body-human-mesh-recovery/) | [Code](https://github.com/facebookresearch/sam-3d-body)
 
+**DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data**
+*Ruqi Wu, Xinjie Wang, Liu Liu, Chunle Guo, Jiaxiong Qiu, Chongyi Li, Lichao Huang, Zhizhong Su, Ming-Ming Cheng*
+*VCIP, CS, Nankai University; NKIARI, Shenzhen Futian; Horizon Robotics*
+arXiv 2025. [Website](https://rq-wu.github.io/projects/DIPO/) | [Paper](https://arxiv.org/abs/2505.20460) | [Code](https://github.com/BellmanTimeHut/DIPO)
+
+
+
 ### static scene assert
 
 **1.synthesis**
