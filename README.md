@@ -52,6 +52,11 @@ arXiv 2025.  [Website](https://ai.meta.com/blog/sam-3d/) | [Paper](https://ai.me
 *VCIP, CS, Nankai University; NKIARI, Shenzhen Futian; Horizon Robotics*
 arXiv 2025. [Website](https://rq-wu.github.io/projects/DIPO/) | [Paper](https://arxiv.org/abs/2505.20460) | [Code](https://github.com/BellmanTimeHut/DIPO)
 
+**PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image**
+*Ziang Cao, Xinyu Li, Songyang Zhang, Wenbing Huang, Zhiqi Li, Yanyu Xu, Jianan Li, Shuai Yi*
+*SenseTime Research & Tsinghua University*
+arXiv 2025. [Website](https://physx-anything.github.io/) | [Paper](https://arxiv.org/abs/2511.13648) | [Code](https://github.com/ziangcao0312/PhysX-Anything)
+
 
 
 ### static scene assert
