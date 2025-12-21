@@ -219,6 +219,14 @@ arxiv 2025. [Paper](https://arxiv.org/pdf/2508.05236)
 *AGILab,SchoolofEngineering,WestlakeUniversity,Hangzhou,China; TheCollegeofComputingandDataScience,NanyangTechnologicalUniversity,Singapore*\
 arxiv 2025. [Website](https://worldforge-agi.github.io/)| [Paper](https://arxiv.org/abs/2509.15130) | [Code](https://github.com/Westlake-AGI-Lab/WorldForge)
 
+
+I**10.human2robot**
+
+*X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale*
+*Pei Yang, Hai Ci, Yiren Song, Mike Zheng Shou*
+*National University of Singapore*
+arXiv 2025. [Paper](https://arxiv.org/abs/2512.04537) | [Code](https://github.com/showlab/X-Humanoid)
+
 ### world model
 
 **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**\
